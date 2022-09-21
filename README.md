@@ -21,7 +21,7 @@ _If you're looking for a more complex publication take a look at the [collection
 
     ```shell
     # create a new PaaW project using the basic starter
-    gatsby new my-publication https://github.com/vnLab-Lodz/gatsby-starter-paaw-basic
+    gatsby new my-publication https://github.com/vnLab-Lodz/gatsby-starter-paaw-sass
     ```
 
 1.  **Start developing.**
@@ -39,7 +39,7 @@ _If you're looking for a more complex publication take a look at the [collection
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `gatsby-starter-paaw-sass` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `my-publication` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
