@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-paaw-basic",
+  "name": "gatsby-starter-paaw-sass",
   "private": true,
-  "description": "A simple starter for PaaW projects.",
+  "description": "A simple starter for PaaW projects that supports Sass.",
   "version": "0.1.0",
   "author": "Piotr Karczewski <p.karczewsk@gmail.com>",
   "dependencies": {

@@ -2,8 +2,8 @@ import { GatsbyConfig } from "gatsby"
 
 export default {
   siteMetadata: {
-    title: `Basic Publication-as-a-Website Starter`,
-    description: `Kick off your next PaaW project with this basic starter.`,
+    title: `Publication-as-a-Website Sass Starter`,
+    description: `Kick off your next PaaW project with this sass starter.`,
     author: `@vnLab1`,
     siteUrl: `http://vnlab.filmschool.lodz.pl/`,
   },
