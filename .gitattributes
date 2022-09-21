@@ -1,0 +1,8 @@
+* eol=lf
+
+*.png text=auto
+*.jpg text=auto
+*.jpeg text=auto
+*.gif text=auto
+*.webp text=auto
+*.mp4 text=auto
